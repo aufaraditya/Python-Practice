@@ -127,9 +127,7 @@ for number in numbers:
         max = number
 
 print(max)
-------------------------------------------------------------------------------------------------------------------
+ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt------------------------------------------------------------------------------------------------------------------
 '''
-
-
 
 
