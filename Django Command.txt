@@ -1,0 +1,9 @@
+Django Command
+
+
+1. django-admin startproject pyshop . #To Start create a project named 'pyshop' in current path
+2. python manage.py runserver #Run a local server
+3. python manage.py startapp products #Create a new folder called 'products' that is an app
+4. python manage.py makemigrations #Create Migration/Database Data Model according to model class
+5. python manage.py migrate #Performed after makemigrations to create table according to the Model
+6. python manage.py createsuperuser #Create Adnmin account
